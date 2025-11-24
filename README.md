@@ -101,3 +101,6 @@ Each person must write a reflection in a new file named `reflection.md`.
 - What are some of the most important lessons you learned while working on this assignment? Why do you think so?
 - What was the most challenging aspect of this assignment? Why?
 
+# Contributors
+
+This assignment was originally designed by [Prof. Yasmine Elgady](https://accessibilityeducation.github.io/projectSidewalk.html).
