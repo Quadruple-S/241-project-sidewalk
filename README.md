@@ -41,6 +41,7 @@ This class represents a basic parser for sidewalk information. Its purpose is to
 This class is a parser specifically designed to parse CSV files for street information. Its purpose is to read a CSV file containing street data and create a graph representation of that data. It utilizes a Scanner class to read the file, maps CSV headers to column indices, and constructs a graph representation of the data by creating 'Sidewalk' objects and adding edges between nodes. Below is an example of what you will find in the given CSV file. This class has been completed for you.
 
 | origin |	dest |	distance |
+| ------ | ----- | --------- |
 | -122.310133, 47.6164493 | -122.3095009, 47.6164515 |	0.92414182 |
 | -122.306149053447, 47.6172551505485 | -122.3061575, 47.617266 |	0.999841564 |
 | -122.3058297, 47.6171284 |	-122.3059664, 47.6171369 |	0.999841564 |
